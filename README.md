@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Shehab Shaef
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning html, css, javascript, and react.
-- 💞️ I’m looking to collaborate on frontend copnent website
+- 💞️ I’m looking to collaborate on frontend components website
 - 📫 How to reach me shehabshaif@gmail.com
 
 <!---
