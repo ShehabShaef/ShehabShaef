@@ -1,4 +1,4 @@
-![](bg.png)
+![](bg.jpg)
 - 👋 Hi, I’m Shehab Shaef
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning html, css, javascript, and react.
